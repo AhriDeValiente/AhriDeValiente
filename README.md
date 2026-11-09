@@ -1,61 +1,50 @@
-Hey, I'm Ziferd 👋
-
-Vibe Coder · Independent Builder · Tech Enthusiast
-
-I build things, experiment with ideas, and turn concepts into working software.
-
-Most of my work revolves around web development, AI-assisted coding, and exploring how different technologies can be put together to solve practical problems.
-
-I don't stick to one particular stack. I choose tools based on what I'm trying to build.
+<div align="center">
+  <h1>Hey, I'm a Mobile-First Vibe Coder</h1>
+  <p>Building ideas into working software, one iteration at a time.</p>
+</div>
 
 ---
 
-What I'm Doing
+## About Me
 
-- Building web applications and experimenting with new ideas.
-- Exploring AI-assisted development and modern coding workflows.
-- Working with JavaScript, web technologies, and Cloudflare's ecosystem.
-- Learning by building, breaking things, and figuring out how they work.
+I'm a vibe coder who builds and experiments with software using an Android phone. I use AI-assisted development to explore ideas, create prototypes, troubleshoot problems, and improve my code along the way.
 
-Tech & Tools
+I believe useful software matters more than having the fanciest setup. My workflow is built around making the most of the tools and hardware I have.
 
-Languages & Web
+## My Development Setup
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript)
-"HTML5" (https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5)
-"CSS3" (https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css3)
-"Python" (https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python)
+| Component | Tool / Environment |
+| --- | --- |
+| Device | Android mobile device |
+| Architecture | `ARMv7l` |
+| Code editor | [Acode](https://github.com/deadlyjack/Acode) |
+| Terminal & environment | [Termux](https://termux.dev/) |
+| Development approach | Mobile-first, AI-assisted vibe coding |
 
-Tools & Infrastructure
+I write and edit code in **Acode**, then use **Termux** for terminal-based tasks, command-line tools, and development workflows. Everything happens directly on my phone.
 
-"Cloudflare" (https://img.shields.io/badge/Cloudflare-18181b?style=flat-square&logo=cloudflare)
-"Git" (https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github)
-"VS Code" (https://img.shields.io/badge/VS%20Code-18181b?style=flat-square&logo=visualstudiocode)
+## How I Work
 
-Selected Projects
+- **Start with an idea** — define the problem and the outcome I want to build.
+- **Build iteratively** — use AI assistance to explore solutions and speed up prototyping.
+- **Test on-device** — run commands, inspect results, and fix issues through Termux.
+- **Keep improving** — review the code, understand the changes, and refine the implementation.
 
-ZEONE
+Working with an `ARMv7l` device means being mindful of architecture compatibility, available resources, and the dependencies a project requires. Those constraints are part of the engineering challenge, not a reason to stop building.
 
-An AI-powered web assistant that brings multiple language models into one interface, built around Cloudflare Workers.
+## What I'm Focused On
 
-More projects
+- Turning practical ideas into usable projects.
+- Improving my programming and problem-solving skills through hands-on work.
+- Learning how applications, tools, and development environments fit together.
+- Writing code that is understandable, maintainable, and reliable.
 
-Check out my repositories to see what I've been working on.
+## A Different Kind of Setup
 
----
-
-A Little More
-
-- I enjoy turning random ideas into actual projects.
-- AI is part of my workflow, but understanding what gets built still matters.
-- I prefer useful software over unnecessary complexity.
-- Always experimenting with something new.
+No desktop workstation—just an Android phone, Acode, Termux, and a willingness to experiment. I document what I learn, work through limitations, and keep building with the tools available to me.
 
 ---
 
-<div align="center">Build. Experiment. Improve. Repeat.
-
-<br>"GitHub" (https://github.com/YOUR_USERNAME)
-
+<div align="center">
+  <sub>Built on Android · Edited with Acode · Powered by Termux</sub>
 </div>
