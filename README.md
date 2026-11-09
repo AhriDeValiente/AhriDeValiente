@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm a Mobile-First Vibe Coder</h1>
+  <h1>Ahri De Valiente</h1>
   <p>Building ideas into working software, one iteration at a time.</p>
 </div>
 
